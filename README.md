@@ -76,13 +76,16 @@ print("c:", c)
 print("d:", d)
 ```
 Output:
+
 <img width="454" height="287" alt="image" src="https://github.com/user-attachments/assets/6e575db8-b850-4108-99b5-ab9c92416cab" />
 
 Result
 Thus the given Python program has been executed successfully and the output has been verified.
 
 EX 03: Datatypes-Character Literal in Python
+
 Aim
+
 To write a Python program that prints the characters 'T' and 'a' using character literals.
 
 Algorithm
@@ -136,9 +139,11 @@ print(x.real)
 print(x.imag)
 ```
 Output
+
 <img width="311" height="225" alt="image" src="https://github.com/user-attachments/assets/d96a7947-f51a-4fca-a4b2-5451ec2350c9" />
 
 Result
+
 Therefore the given Python Program has been executed succeefully and the output has been verified.
 
 EX 05-Datatypes-Read and Print a String in Python
