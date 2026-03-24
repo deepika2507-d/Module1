@@ -37,6 +37,7 @@ Output
 
 <img width="449" height="278" alt="image" src="https://github.com/user-attachments/assets/b7be2359-fad6-4be0-adb5-b539c8773672" />
 
+
 Result
 Thus the Python Program for determining whether the given number is odd or even has been executed successfully and the output has been verified.
 
@@ -95,15 +96,22 @@ print('T')
 print('a')
 ```
 Output
+
 <img width="485" height="304" alt="image" src="https://github.com/user-attachments/assets/f0d72072-01f7-4fe1-958f-755e6fe3127c" />
+
+
 Result
+
 Thus the given Python Program has been exceuted successfully and the output has been verified.
 
 EX 04- Datatypes-Complex Number Creation in Python
+
 Aim
+
 To write a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts.
 
 Algorithm
+
 1.Read an integer input from the user and assign it to the variable a (real part).
 
 2.Read another integer input from the user and assign it to the variable b (imaginary part).
@@ -134,10 +142,13 @@ Result
 Therefore the given Python Program has been executed succeefully and the output has been verified.
 
 EX 05-Datatypes-Read and Print a String in Python
+
 Aim
+
 To write a Python program to read a string from the user and then print it.
 
 Algorithm
+
 1.Assign a variable named men_stepped_on_the_moon.
 
 2.Use input() to read a string from the user and store it in the variable.
