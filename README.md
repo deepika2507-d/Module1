@@ -171,6 +171,7 @@ Output
 <img width="413" height="220" alt="image" src="https://github.com/user-attachments/assets/5cbd7093-87c7-4c8d-872c-5d93d65baca2" />
 
 Result
+
 Therfore the given Python program has been executed successfully and the output has been verified.
 
 
